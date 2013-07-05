@@ -1,5 +1,3 @@
-This fork adds support for multiple projects, also change status link to display project name. To use it you will need to add PROJECT_NUMBERS environment variable.
-
 This is a little Sinatra app notifies Hipchat of any changes in the build status on your CruiseControl.rb install.
 
 Heroku-ready! Just follow these steps:
